@@ -1,11 +1,11 @@
 ### zuyeongbb
 
-##introduction
+## introduction
 Hello, I'm Juyeong Baek.
 I'm interested in SW and French.
 
-##career
+## career
 Yeongnam University student
 
-##Links
+## Links
 haven't made yet
