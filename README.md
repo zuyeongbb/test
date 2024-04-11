@@ -2,8 +2,6 @@ Zuyeongbb's Profile
   =============
   
 <div align="center">
-
-## introduction
 Hello, my name is Juyeong Baek.<br/>I'm interested in SW and French.<br/>I'm currently staying in South Korea and I feel free to speak Korean, French and English.
 
 ### 🏫 career
