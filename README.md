@@ -5,7 +5,7 @@ Zuyeongbb's Profile
 Hello, my name is Juyeong Baek.<br/>I'm interested in SW and French.<br/>I'm currently staying in South Korea and I feel free to speak Korean, French and English.
 
 ### 🏫 career
-I am in my third year of the college, Yeongnam University
+I'm in my third year of the college, Yeongnam University
 
 Major: French language and Literature<br/>Double major: Computer Engineering
 
